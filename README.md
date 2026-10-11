@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI researcher & engineer</b> · LLMs, deep learning, and medical AI<br>
-  MSc Data Science, EPFL · Lausanne 🇨🇭 / Paris 🇫🇷
+  MSc Data Science, EPFL · Paris 🇫🇷
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@ I build and benchmark machine learning systems, from research prototypes to prod
 | LLM distillation | 200K+ sample reasoning dataset distilled from GPT-OSS 120B | **+15%** readmission prediction |
 | RAG and LLM serving | LlamaIndex RAG pipeline with quantization and caching | **−65%** inference cost |
 | Physics GNN | Encoder-decoder GNN for movement prediction | **+20%** accuracy, beats SOTA |
-| Agent studies | Moltbook with ETH Zurich: 20K agents, 300K posts, 800K comments | Large-scale analysis |
+| Agent studies | Moltbook with UNIL and ETH Zurich: 20K agents, 300K posts, 800K comments | Large-scale analysis |
 
 ## 🛠️ Tech stack
 
@@ -72,20 +72,6 @@ I build and benchmark machine learning systems, from research prototypes to prod
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-## 🧪 Experience
-
-- **AI researcher**, Institut Imagine (2026): rare disease diagnosis with deep learning.
-- **AI researcher**, LiGHT (EPFL–Harvard) (2025–26): reasoning datasets, fine-tuning, GRPO in HuggingFace TRL.
-- **AI researcher and research assistant**, UNIL Applied AI Lab (2025–26): clinical prediction with Stanford, agent studies with NUS and ETH Zurich.
-- **ML researcher**, IMOS Lab (2025): GNNs for physics movement prediction.
-- **CTO and AI engineer**, FAMELINK (2023–25): AI-agent platform, RAG, LLM cost optimisation.
-- Earlier: VITA Lab, UNIL DEE (pose estimation), EPFL Rocket Team, JE EPFL.
-
-## 📂 Featured projects
-
-<!-- Replace with your pinned repos once published. Pin up to 6 in your profile settings. -->
-- 🚧 Coming soon: open-source work from my research and side projects.
-
 ## 🌍 Beyond code
 
 Languages: French (native) · English (C1) · Spanish (B1)
@@ -93,4 +79,4 @@ Interests: couture 🧵 · photography 📷 · cooking 🍳 · kickboxing 🥊
 
 ---
 
-<p align="center"><i>Open to research collaborations and interesting AI problems. Feel free to reach out!</i></p>
+<p align="center"><i>Open to interesting AI problems. Feel free to reach out!</i></p>
